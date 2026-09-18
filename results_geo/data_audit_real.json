@@ -1,0 +1,9 @@
+{
+  "n_points": 81,
+  "n_records": 648,
+  "sessions": 8,
+  "cum_vs_cumsum_exact_le_0.05mm": 0.6728395061728395,
+  "cum_vs_cumsum_le_0.5mm": 1.0,
+  "max_abs_deviation_mm": 0.20000000000000107,
+  "note": "increments kept as primary truth; cumulative reconstructed"
+}

@@ -1,0 +1,11 @@
+# Reproducibility dependencies (Python 3.10-3.12; Windows/Linux/macOS)
+# Identical to the environment that produced all reported results (full freeze: docs/pip_freeze_full.txt)
+autogluon.tabular==1.6.2
+lightgbm==4.7.0
+xgboost==3.4.1
+catboost==1.2.10
+scikit-learn==1.9.1
+pandas==2.3.3
+numpy==2.5.3
+matplotlib==3.11.2
+openpyxl>=3.1.0

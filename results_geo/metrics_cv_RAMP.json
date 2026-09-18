@@ -1,0 +1,20 @@
+{
+  "model": "AutoGluon_cv_RAMP",
+  "tag": "session8",
+  "inc_r2": -0.40893639343496124,
+  "inc_mae": 1.3985133230686189,
+  "inc_rmse": 1.5525943692825488,
+  "cum_r2": 0.8936120294496063,
+  "cum_mae": 1.3985133230686189,
+  "cum_rmse": 1.5525943692825488,
+  "fit_seconds": 109.9,
+  "seed": 2024,
+  "n_features": 30,
+  "bestsingle_inc_r2": 0.09803807914552243,
+  "bestsingle_inc_mae": 1.1097632732987404,
+  "bestsingle_inc_rmse": 1.2422425891869613,
+  "bestsingle_cum_r2": 0.9318933780683321,
+  "bestsingle_cum_mae": 1.1097632732987406,
+  "bestsingle_cum_rmse": 1.2422425891869617,
+  "bestsingle_name": "LightGBMLarge_BAG_L1_FULL"
+}

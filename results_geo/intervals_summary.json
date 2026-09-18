@@ -1,0 +1,7 @@
+{
+  "method": "split-conformal on session-7 calibration residuals (geo model)",
+  "nominal_level": 0.9,
+  "half_width_mm": 1.9871894270181656,
+  "empirical_coverage_session8": 0.8271604938271605,
+  "mean_interval_width_mm": 3.974378854036331
+}

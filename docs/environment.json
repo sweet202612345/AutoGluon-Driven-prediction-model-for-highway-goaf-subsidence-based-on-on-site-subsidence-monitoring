@@ -1,0 +1,32 @@
+{
+  "python": "3.12.14 (main, Sep  1 2026, 14:17:39) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "config": {
+    "lags": 5,
+    "train_session": 6,
+    "calib_session": 7,
+    "test_session": 8,
+    "presets": "good_quality",
+    "num_stack_levels": 2,
+    "num_bag_folds": 5,
+    "num_bag_sets": 1,
+    "time_limit": 100,
+    "eval_metric": "r2",
+    "main_seed": 2024,
+    "multi_seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "n_bootstrap": 1000,
+    "pi_level": 0.9
+  },
+  "versions_error": "No module named 'lightgbm'"
+}

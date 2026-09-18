@@ -1,0 +1,12 @@
+{
+  "n_runs": 11,
+  "inc_mae_mean": 1.0939670567076987,
+  "inc_mae_std": 0.06436615970315017,
+  "inc_r2_mean": -0.24059853637162584,
+  "inc_r2_std": 0.1810355350696604,
+  "cum_r2_mean": 0.9243908583328814,
+  "cum_r2_std": 0.011033336745582208,
+  "all_better_than_persistence_mae": true,
+  "all_better_than_rate_extrap_mae": false,
+  "all_better_than_ar5_mae": true
+}

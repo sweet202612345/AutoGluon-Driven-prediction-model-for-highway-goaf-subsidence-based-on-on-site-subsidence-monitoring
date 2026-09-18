@@ -1,0 +1,82 @@
+point_id,has_goaf,seam_thickness_m,mining_depth_m,depth_thickness_ratio,dip_angle_deg,recovery_rate,years_since_abandonment,room_width_m,pillar_width_m,grouting,mining_method,overburden_lithology,coal_mine,stability_class,geo_note
+C1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,none,none,outside Wanghe mine boundary (mine starts at K21+240)
+C2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,none,none,outside Wanghe mine boundary (mine starts at K21+240)
+C3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,none,none,outside Wanghe mine boundary (mine starts at K21+240)
+C4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route; dual-mileage point (ramp mileage belongs to Segment 1)
+C12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route; dual-mileage point (ramp mileage belongs to Segment 1)
+C13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route; dual-mileage point (ramp mileage belongs to Segment 1)
+C14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route; dual-mileage point (ramp mileage belongs to Segment 1)
+C15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route
+C17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,none,none,Wanghe,none,outside goaf segments; no goaf beneath the route; dual-mileage point (ramp mileage belongs to Segment 1)
+C18,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Wanghe,basic_stable,
+C19,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Wanghe,basic_stable,
+C20,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Wanghe,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C21,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C22,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C23,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C24,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C25,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C26,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C27,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C28,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C29,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C30,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C31,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C32,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C33,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C34,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C35,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C36,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C37,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C38,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C39,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C40,1.0,1.24,125.0,94.5,11.0,0.6,11.9,6.5,12.5,0.0,room_and_pillar,medium_hard,Mihe,stable,
+C41,1.0,1.24,125.0,94.5,11.0,0.6,11.9,6.5,12.5,0.0,room_and_pillar,medium_hard,Mihe,stable,
+C42,1.0,1.24,125.0,94.5,11.0,0.6,11.9,6.5,12.5,0.0,room_and_pillar,medium_hard,Mihe,stable,
+C43,1.0,1.24,125.0,94.5,11.0,0.6,11.9,6.5,12.5,0.0,room_and_pillar,medium_hard,Mihe,stable,
+C44,1.0,1.24,125.0,94.5,11.0,0.6,11.9,6.5,12.5,0.0,room_and_pillar,medium_hard,Mihe,stable,
+C45,1.0,1.24,125.0,94.5,11.0,0.6,11.9,6.5,12.5,0.0,room_and_pillar,medium_hard,Mihe,stable,
+C46,1.0,3.49,125.0,37.0,11.0,0.5,51.9,6.5,12.5,0.0,room_and_pillar,weak,Mihe,unstable,"double-seam goaf (Yi-1 room&pillar + Er-1 room&pillar); Er-1 layer governs: weak overburden, class unstable"
+C47,1.0,3.49,125.0,37.0,11.0,0.5,51.9,6.5,12.5,0.0,room_and_pillar,weak,Mihe,unstable,"double-seam goaf (Yi-1 room&pillar + Er-1 room&pillar); Er-1 layer governs: weak overburden, class unstable"
+C48,1.0,3.49,125.0,37.0,11.0,0.5,51.9,6.5,12.5,0.0,room_and_pillar,weak,Mihe,unstable,"double-seam goaf (Yi-1 room&pillar + Er-1 room&pillar); Er-1 layer governs: weak overburden, class unstable"
+C49,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C50,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C51,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C52,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C53,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C54,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C55,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C56,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C57,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Wanghe,basic_stable,
+C58,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Wanghe,basic_stable,
+C59,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Wanghe,basic_stable,
+C60,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Wanghe,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C61,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C62,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C63,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C64,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C65,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C66,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,mine attribution INFERRED (west of ZK4/JPK20+389); needs the mine-boundary plan for confirmation
+C67,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,mine attribution INFERRED (west of ZK4/JPK20+389); needs the mine-boundary plan for confirmation
+C68,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,mine attribution INFERRED (west of ZK4/JPK20+389); needs the mine-boundary plan for confirmation
+C69,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,mine attribution INFERRED (west of ZK4/JPK20+389); needs the mine-boundary plan for confirmation
+C70,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,mine attribution INFERRED (west of ZK4/JPK20+389); needs the mine-boundary plan for confirmation
+C71,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,mine attribution INFERRED (west of ZK4/JPK20+389); needs the mine-boundary plan for confirmation
+C72,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C73,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C74,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,
+C75,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,
+C76,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,
+C77,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Shuanglou,basic_stable,dual-mileage point (ramp mileage belongs to Segment 1)
+C78,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C79,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Interchange(Wanghe/Mihe/Shuanglou),basic_stable,
+C80,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,
+C81,1.0,1.24,215.0,162.5,11.0,0.75,6.9,0.0,0.0,0.0,shortwall,medium_hard,Mihe,basic_stable,

@@ -1,0 +1,20 @@
+{
+  "model": "AutoGluon_ablationB",
+  "tag": "session8",
+  "inc_r2": -0.6447514077209693,
+  "inc_mae": 1.2385007396949754,
+  "inc_rmse": 1.5534556927870475,
+  "cum_r2": 0.8997594801640846,
+  "cum_mae": 1.2385007396949754,
+  "cum_rmse": 1.5534556927870475,
+  "fit_seconds": 62.3,
+  "seed": 2024,
+  "n_features": 10,
+  "bestsingle_inc_r2": -0.07212861805169557,
+  "bestsingle_inc_mae": 1.040896262927556,
+  "bestsingle_inc_rmse": 1.2542155527709022,
+  "bestsingle_cum_r2": 0.9346583748158154,
+  "bestsingle_cum_mae": 1.0408962629275558,
+  "bestsingle_cum_rmse": 1.2542155527709022,
+  "bestsingle_name": "XGBoostDense_BAG_L1_FULL"
+}

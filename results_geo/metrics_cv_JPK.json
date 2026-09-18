@@ -1,0 +1,20 @@
+{
+  "model": "AutoGluon_cv_JPK",
+  "tag": "session8",
+  "inc_r2": -0.00760461851147487,
+  "inc_mae": 1.0980456079260028,
+  "inc_rmse": 1.281134362371317,
+  "cum_r2": 0.9384522421984457,
+  "cum_mae": 1.0980456079260028,
+  "cum_rmse": 1.2811343623713167,
+  "fit_seconds": 110.6,
+  "seed": 2024,
+  "n_features": 30,
+  "bestsingle_inc_r2": -0.0010611913490987668,
+  "bestsingle_inc_mae": 1.0678714030518612,
+  "bestsingle_inc_rmse": 1.2769677162942443,
+  "bestsingle_cum_r2": 0.9388519359501247,
+  "bestsingle_cum_mae": 1.0678714030518612,
+  "bestsingle_cum_rmse": 1.2769677162942443,
+  "bestsingle_name": "LightGBM_BAG_L1_FULL"
+}

@@ -1,0 +1,20 @@
+{
+  "model": "AutoGluon_ablationA",
+  "tag": "session8",
+  "inc_r2": -0.29331441639268596,
+  "inc_mae": 1.1160674036885785,
+  "inc_rmse": 1.3775291471709674,
+  "cum_r2": 0.9211780523172654,
+  "cum_mae": 1.1160674036885785,
+  "cum_rmse": 1.3775291471709674,
+  "fit_seconds": 110.0,
+  "seed": 2024,
+  "n_features": 5,
+  "bestsingle_inc_r2": -0.10042219056276669,
+  "bestsingle_inc_mae": 1.0687264490918613,
+  "bestsingle_inc_rmse": 1.270657216593158,
+  "bestsingle_cum_r2": 0.9329340033374198,
+  "bestsingle_cum_mae": 1.0687264490918613,
+  "bestsingle_cum_rmse": 1.2706572165931582,
+  "bestsingle_name": "LightGBMXT_BAG_L1_FULL"
+}

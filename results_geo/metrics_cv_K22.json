@@ -1,0 +1,20 @@
+{
+  "model": "AutoGluon_cv_K22",
+  "tag": "session8",
+  "inc_r2": -0.17397946119210594,
+  "inc_mae": 1.0222412386220758,
+  "inc_rmse": 1.2499565363093659,
+  "cum_r2": 0.9374694521200893,
+  "cum_mae": 1.0222412386220758,
+  "cum_rmse": 1.2499565363093659,
+  "fit_seconds": 112.9,
+  "seed": 2024,
+  "n_features": 30,
+  "bestsingle_inc_r2": -0.01915267894842554,
+  "bestsingle_inc_mae": 0.9772464880476828,
+  "bestsingle_inc_rmse": 1.1646201170665589,
+  "bestsingle_cum_r2": 0.9457161070576041,
+  "bestsingle_cum_mae": 0.9772464880476825,
+  "bestsingle_cum_rmse": 1.1646201170665589,
+  "bestsingle_name": "CatBoostDeep_BAG_L2_FULL"
+}

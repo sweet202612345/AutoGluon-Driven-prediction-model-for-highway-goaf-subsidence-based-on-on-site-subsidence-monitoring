@@ -1,0 +1,20 @@
+{
+  "model": "AutoGluon_seed9",
+  "tag": "session8",
+  "inc_r2": -0.7355624358732598,
+  "inc_mae": 1.2687653279046953,
+  "inc_rmse": 1.595764717123607,
+  "cum_r2": 0.8942249388187558,
+  "cum_mae": 1.2687653279046955,
+  "cum_rmse": 1.595764717123607,
+  "fit_seconds": 111.5,
+  "seed": 9,
+  "n_features": 30,
+  "bestsingle_inc_r2": -0.036977377085113394,
+  "bestsingle_inc_mae": 1.0418676789160128,
+  "bestsingle_inc_rmse": 1.233483596733826,
+  "bestsingle_cum_r2": 0.9368006916734433,
+  "bestsingle_cum_mae": 1.0418676789160128,
+  "bestsingle_cum_rmse": 1.233483596733826,
+  "bestsingle_name": "CatBoostDeep_BAG_L2_FULL"
+}

@@ -1,0 +1,20 @@
+{
+  "model": "AutoGluon_ablationE",
+  "tag": "session8",
+  "inc_r2": -0.21698948661184714,
+  "inc_mae": 1.0664019774645568,
+  "inc_rmse": 1.3362636383072835,
+  "cum_r2": 0.9258297283102181,
+  "cum_mae": 1.0664019774645566,
+  "cum_rmse": 1.3362636383072835,
+  "fit_seconds": 110.2,
+  "seed": 2024,
+  "n_features": 30,
+  "bestsingle_inc_r2": -0.025775009868152843,
+  "bestsingle_inc_mae": 1.0358520384188052,
+  "bestsingle_inc_rmse": 1.2268029024784626,
+  "bestsingle_cum_r2": 0.937483427744043,
+  "bestsingle_cum_mae": 1.035852038418805,
+  "bestsingle_cum_rmse": 1.2268029024784626,
+  "bestsingle_name": "CatBoostDeep_BAG_L2_FULL"
+}

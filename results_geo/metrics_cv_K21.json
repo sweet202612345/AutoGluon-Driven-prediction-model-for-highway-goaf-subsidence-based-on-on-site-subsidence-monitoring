@@ -1,0 +1,20 @@
+{
+  "model": "AutoGluon_cv_K21",
+  "tag": "session8",
+  "inc_r2": -0.03717464293042427,
+  "inc_mae": 0.8347310754987929,
+  "inc_rmse": 1.0501115769592317,
+  "cum_r2": 0.9448557950776227,
+  "cum_mae": 0.8347310754987929,
+  "cum_rmse": 1.0501115769592317,
+  "fit_seconds": 114.2,
+  "seed": 2024,
+  "n_features": 30,
+  "bestsingle_inc_r2": 0.27606746624881473,
+  "bestsingle_inc_mae": 0.7245925896697574,
+  "bestsingle_inc_rmse": 0.8773210471858127,
+  "bestsingle_cum_r2": 0.9615101619932015,
+  "bestsingle_cum_mae": 0.7245925896697576,
+  "bestsingle_cum_rmse": 0.8773210471858127,
+  "bestsingle_name": "RandomForestMSE_BAG_L2_FULL"
+}
